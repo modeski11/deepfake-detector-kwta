@@ -1,2 +1,3 @@
 # deepfake-detector-kwta
-Deepfake detector using K-WTA activation function for robustness from adversarial attack
+Developing robust deepfake model towards whitebox adversarial attack (Iterative-FGSM and C&W attack) using K-WTA activation function
+Model created for my thesis
